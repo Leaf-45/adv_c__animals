@@ -1,0 +1,15 @@
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\bin\Debug\net6.0\adv-c#-animals.exe
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\bin\Debug\net6.0\adv-c#-animals.deps.json
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\bin\Debug\net6.0\adv-c#-animals.runtimeconfig.json
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\bin\Debug\net6.0\adv-c#-animals.dll
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\bin\Debug\net6.0\adv-c#-animals.pdb
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\adv-c#-animals.csproj.AssemblyReference.cache
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\adv-c#-animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\adv-c#-animals.AssemblyInfoInputs.cache
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\adv-c#-animals.AssemblyInfo.cs
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\adv-c#-animals.csproj.CoreCompileInputs.cache
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\adv-c#-animals.dll
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\refint\adv-c#-animals.dll
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\adv-c#-animals.pdb
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\adv-c#-animals.genruntimeconfig.cache
+C:\Users\Leafs\source\repos\adv-c#-animals\adv-c#-animals\obj\Debug\net6.0\ref\adv-c#-animals.dll
